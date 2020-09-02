@@ -1,13 +1,15 @@
 # Gospider
 Learning go and go to do something.
 
-# Description
-I learned from ccmouse, and the design ideas of this project also comes from him. I will do some extensions.
+# Architecture
 
-## Architecture
+## Composition
 * Concurrent
 * Distributed
 * docker 
 * ElasticSearch
-* Front end display
+* Front and display
 * Data Analysis
+
+# Description
+I learned from ccmouse, and the design ideas of this project also comes from him. I will do some extensions.
